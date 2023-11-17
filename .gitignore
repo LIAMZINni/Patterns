@@ -1,0 +1,13 @@
+# Project exclude paths
+/abstract factory/target/
+/adapter/target/
+/bridge/target/
+/builder/target/
+/Composite/target/
+/facade/target/
+/Memento/target/
+/observer/target/
+/prototype/target/
+/singleton/target/
+/target/
+/Template method/target/
